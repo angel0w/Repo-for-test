@@ -116,3 +116,16 @@ button:hover span {
 button:hover {
     border: none;
 }
+
+/* <!-- -------------- Main -------------- --> */
+
+main {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('IMG_3270.JPG');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
