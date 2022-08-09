@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-image: url('IMG_1732.JPG');
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    /* background-attachment:fixed ; */
+    height: 100vh;
+
+
+    
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navigation ul {
+    display: flex;
+    gap: 30px;
+}
